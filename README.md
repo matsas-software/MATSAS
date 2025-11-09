@@ -15,7 +15,7 @@ MATSAS enables users to:
 
   * Calculate Porod invariants, specific surface area, and porosity using Porod-law and Guinier analysis routines.
 
-MATSAS is a script-based MATLAB® toolbox that interfaces seamlessly with Excel or CSV data, allowing easy manipulation, model customisation, and batch processing.
+MATSAS is a script-based MATLAB® toolbox that interfaces with Excel or CSV data, allowing easy manipulation, model customisation, and batch processing.
 
 We welcome contributions, comments, and source code improvements from the SAS community via GitHub’s forums or the MATSAS Development Team. The latest release is MATSAS R2025.1; See "Releases".
 
