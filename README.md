@@ -17,7 +17,7 @@ MATSAS enables users to:
 
 MATSAS is a script-based MATLAB® toolbox that interfaces seamlessly with Excel or CSV data, allowing easy manipulation, model customisation, and batch processing.
 
-We welcome contributions, comments, and source code improvements from the SAS community via GitHub’s forums or the MATSAS Development Team. The latest release, MATSAS R2025.1; See "Releases".
+We welcome contributions, comments, and source code improvements from the SAS community via GitHub’s forums or the MATSAS Development Team. The latest release is MATSAS R2025.1; See "Releases".
 
 Amirsaman Rezaeyan;
 MATSAS Development Team | matsas.software@gmail.com or amirsaman.rezaeyan@gmail.com | July 2020 - December 2025
