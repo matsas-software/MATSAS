@@ -5,15 +5,15 @@ Originally developed for sedimentary rocks, MATSAS is now a versatile analysis s
 
 MATSAS enables users to:
 
-  Run VSAS, SAS, or combined analyses.
+  * Run VSAS, SAS, or combined analyses.
 
-  Perform background calculation and subtraction.
+  * Perform background calculation and subtraction.
 
-  Fit scattering data using the PDSP (Polydisperse Spherical Particle) model, featuring an analytical formula for the scattering volume distribution. The fitting procedure     uses optimization algorithms that account for instrumental errors, ensuring robust and accurate results.
+  * Fit scattering data using the PDSP (Polydisperse Spherical Particle) model, featuring an analytical formula for the scattering volume distribution. The fitting procedure     uses optimization algorithms that account for instrumental errors, ensuring robust and accurate results.
 
-  Generate a comprehensive suite of pore characterisation parameters, including specific surface area (SSA), pore volume, porosity, pore size distribution (PSD), and fractal   dimensions.
+  * Generate a comprehensive suite of pore characterisation parameters, including specific surface area (SSA), pore volume, porosity, pore size distribution (PSD), and           fractal   dimensions.
 
-  Calculate Porod invariants, specific surface area, and porosity using advanced Porod-law and Guinier analysis routines.
+  * Calculate Porod invariants, specific surface area, and porosity using Porod-law and Guinier analysis routines.
 
 MATSAS is a script-based MATLAB® toolbox that interfaces seamlessly with Excel or CSV data, allowing easy manipulation, model customisation, and batch processing.
 
