@@ -19,5 +19,8 @@ MATSAS is a script-based MATLAB® toolbox that interfaces with Excel or CSV data
 
 We welcome contributions, comments, and source code improvements from the SAS community via GitHub’s forums or the MATSAS Development Team. The latest release is MATSAS R2025.1; See "Releases".
 
+Cite as:\
+Rezaeyan, A., V. Pipich, and A. Busch (2021), MATSAS: a small-angle scattering computing tool for porous systems, Journal of Applied Crystallography, 54(2), 697-706. https://doi.org/10.1107/S1600576721000674
+
 Amirsaman Rezaeyan\
 MATSAS Development Team | matsas.software@gmail.com | July 2020 - December 2026
